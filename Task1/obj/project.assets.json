@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/admin/Desktop/Artem/IT/GeekBrains/Апрель-23/Знакомство с языком программирования C#/Семинары/HomeWork_S1/Task1/Task1.csproj",
+      "projectUniqueName": "/Users/admin/Desktop/Artem/IT/GeekBrains/Апрель-23/Знакомство с языком программирования C#/HomeWork/HomeWork_S1/Task1/Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "/Users/admin/Desktop/Artem/IT/GeekBrains/Апрель-23/Знакомство с языком программирования C#/Семинары/HomeWork_S1/Task1/Task1.csproj",
+      "projectPath": "/Users/admin/Desktop/Artem/IT/GeekBrains/Апрель-23/Знакомство с языком программирования C#/HomeWork/HomeWork_S1/Task1/Task1.csproj",
       "packagesPath": "/Users/admin/.nuget/packages/",
-      "outputPath": "/Users/admin/Desktop/Artem/IT/GeekBrains/Апрель-23/Знакомство с языком программирования C#/Семинары/HomeWork_S1/Task1/obj/",
+      "outputPath": "/Users/admin/Desktop/Artem/IT/GeekBrains/Апрель-23/Знакомство с языком программирования C#/HomeWork/HomeWork_S1/Task1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/admin/.nuget/NuGet/NuGet.Config"
